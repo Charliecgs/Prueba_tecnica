@@ -1,0 +1,12 @@
+.headerMain {
+  background-color: #414141;
+  height: 8vh;
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.headerMain > h1 {
+  margin-left: 246px;
+}

@@ -1,0 +1,13 @@
+.divDialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  opacity: 1;
+  height: 500px;
+  gap: 1rem;
+}
+.divDialog > img {
+  width: 200px;
+  height: 300px;
+}
